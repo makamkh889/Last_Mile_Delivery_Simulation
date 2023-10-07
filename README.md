@@ -9,7 +9,7 @@ Click-Based Selection: Users can simply click on the map to see routes.
 
 ## Installation
 1-Clone the repository
-2-Obtain an key from Google Maps Platform Developer [Get an API key]([https://developers.arcgis.com/sign-up/](https://developers.google.com/maps/documentation/embed/get-api-key](https://developers.google.com/maps/documentation/embed/get-api-key)).
+2-Obtain an key from Google Maps Platform Developer [Get an API key](https://developers.google.com/maps/documentation/embed/get-api-key](https://developers.google.com/maps/documentation/embed/get-api-key)).
 3-replace YOUR_API_KEY with your actual your API key.
 4-Run it
 
@@ -19,4 +19,4 @@ Google Maps Platform Documentation for [Find a route and directions](https://dev
 [Learn more in this tutorial](https://developers.google.com/maps/documentation/javascript/overview)
 
 ##Website Explainer Video 
-[![Video Title](https://drive.google.com/file/d/1fKsdJdBsEcQLGfVPRsj850aHNuruJrPx/view?usp=sharing)
+![Video Title](https://drive.google.com/file/d/1fKsdJdBsEcQLGfVPRsj850aHNuruJrPx/view?usp=sharing)
