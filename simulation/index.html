@@ -1,0 +1,93 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--Import materialize.css-->
+  <link type="text/css" rel="stylesheet" href="/materialize/css/materialize.min.css" media="screen,projection" />
+  <link rel="stylesheet" href="/style.css">
+
+
+</head>
+
+<body>
+
+  <form class="container" method="post">
+    <div class="row" >
+      <img class="col s3 m3 l2" src="/img/Image1.png" />
+    </div>
+    <div class="row">
+      <h1 class="col s12 m6 l10">Register</h1>
+    </div>
+    <div class="row">
+      <div class="col s6 m6 l6">
+        <label class="countries_label">Country</label>
+      </div>
+      <div class="col s6 m6 l6">
+        <label class="Cities_label">City</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6 m6 l6">
+        <div class="countries_option">
+          <select class="browser-default" id="Country">
+            <option selected>Choose Your Country</option>
+          </select>
+        </div>
+      </div>
+      <div class="input-field col s6 m6 l6">
+        <div class="Cities_option">
+          <select class="browser-default" id="State">
+            <option selected>Choose Your City</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+        <div>
+          <label  class ='col s6 m6 l6 check_country' style="display:none; color: red;"> Please choose your country.</label>
+          <label class ='col s6 m6 l6 offset-l3 check_city'style="display:none; color: red;"> Please choose your city.</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s6 m6 l3">
+        <label for="Number_of_stores" class="container_stores">Number of Stores :</label>
+      </div>
+      <div class="input-field col s6 m6 l3">
+        <div class="wrapper_stores">
+          <span class="minus_stores" >-</span>
+          <span class="Number_of_stores" value="0">0</span>
+          <span class="plus_stores">+</span>
+        </div>
+      </div>
+      <div class="col s6 m6 l3">
+        <label for="Number_of_Vehicles" class="container_Vehicles">Number of Vehicles :</label>
+      </div>
+      <div class="input-field col s6 m6 l3">
+        <div class="wrapper_Vehicles">
+          <span class="minus_Vehicles">-</span>
+          <span class="Number_of_Vehicles" id="Number_of_VehiclesId" value="0">0</span>
+          <span class="plus_Vehicles" >+</span>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12" class="box" id="boxContainer">
+      </div>
+    </div>
+
+    <div class="row">
+      <button class="col s12 m4 offset-m4 center-align" id="Start_Simulation" type="button">Start
+        Simulation</button>
+    </div>
+  </form>
+  <script src="/listOfCountry.js"></script>
+  <script src="/chain.js"></script>
+</body>
+
+</html>
+
+
+
