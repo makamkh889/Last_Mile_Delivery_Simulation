@@ -9,8 +9,11 @@ Click-Based Selection: Users can simply click on the map to see routes.
 
 ## Installation
 1-Clone the repository
+
 2-Obtain an key from Google Maps Platform Developer [Get an API key](https://developers.google.com/maps/documentation/embed/get-api-key](https://developers.google.com/maps/documentation/embed/get-api-key)).
+
 3-replace YOUR_API_KEY with your actual your API key.
+
 4-Run it
 
 
