@@ -19,4 +19,5 @@ Google Maps Platform Documentation for [Find a route and directions](https://dev
 [Learn more in this tutorial](https://developers.google.com/maps/documentation/javascript/overview)
 
 ##Website Explainer Video 
-![Video Title](https://drive.google.com/file/d/1fKsdJdBsEcQLGfVPRsj850aHNuruJrPx/view?usp=sharing)
+
+[![Watch the video](https://drive.google.com/file/d/1fKsdJdBsEcQLGfVPRsj850aHNuruJrPx/view?usp=sharing)
