@@ -20,4 +20,4 @@ Google Maps Platform Documentation for [Find a route and directions](https://dev
 
 ##Website Explainer Video 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/1fKsdJdBsEcQLGfVPRsj850aHNuruJrPx/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1xm4rKSvS8gXhj1Lwspp2BPIGnBMe0dRQ/view?usp=sharing)](https://drive.google.com/file/d/1fKsdJdBsEcQLGfVPRsj850aHNuruJrPx/view?usp=sharing)
